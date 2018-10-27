@@ -5,3 +5,5 @@
 [Алгоритм Евклида](https://github.com/rudlevsky/NET1.A.2018.Rudlevsky.04/blob/master/NodAlgorithms/NodAlgorithms/NodSearcher.cs)
 
 [JaggedArrays](https://github.com/rudlevsky/NET1.A.2018.Rudlevsky.07/tree/master/JaggedArrays/JaggedArrays)
+
+[Полином](https://github.com/rudlevsky/NET1.A.2018.Rudlevsky.05/tree/master/PolynomOperations)
